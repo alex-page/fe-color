@@ -1,0 +1,45 @@
+{
+	"name": "fe-color",
+	"version": "1.0.0",
+	"description": "Change a color based on a transformation matrix",
+	"scripts": {
+		"prepublish": "npm run test",
+		"test": "ava && eslint *.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alex-page/fecolor.git"
+	},
+	"keywords": [
+		"accessible",
+		"colour",
+		"color",
+		"filter",
+		"effects",
+		"feColorMatrix",
+		"matrix",
+		"deuteranopia",
+		"tritanopia",
+		"accessibility",
+		"a11y"
+	],
+	"main": "index.js",
+	"author": {
+		"name": "Alex Page",
+		"email": "alex@alexpage.com.au",
+		"url": "http://alexpage.com.au"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/alex-page/fe-color/issues"
+	},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"eslint": "^4.19.1",
+		"eslint-config-airbnb-base": "^12.1.0",
+		"eslint-plugin-import": "^2.10.0"
+	},
+	"dependencies": {
+		"color": "^2.0.1"
+	}
+}
