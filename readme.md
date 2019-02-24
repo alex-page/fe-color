@@ -1,4 +1,4 @@
-🎨 Filter effects color   [![Build Status](https://travis-ci.org/alex-page/fe-color.svg?branch=master)](https://travis-ci.org/alex-page/fe-color)
+🎨 Filter effects color
 ==============
 
 > Change a color based on a filter effect matrix
@@ -46,4 +46,5 @@ Fundamentals from [feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/S
 
 ## Release History
 
+* v1.0.1 - Replace travis with GitHub actions
 * v1.0.0 - First release
