@@ -1,6 +1,6 @@
 {
 	"name": "fe-color",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Change a color based on a transformation matrix",
 	"scripts": {
 		"test": "ava && eslint index.js"
@@ -23,6 +23,7 @@
 		"a11y"
 	],
 	"main": "index.js",
+	"files": [ "index.js" ],
 	"author": {
 		"name": "Alex Page",
 		"email": "alex@alexpage.com.au",

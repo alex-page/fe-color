@@ -46,6 +46,7 @@ Fundamentals from [feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/S
 
 ## Release History
 
+* v1.0.3 - Use files instead of `.npmignore`
 * v1.0.2 - Remove `prepublishOnly` script
 * v1.0.1 - Replace travis with GitHub actions
 * v1.0.0 - First release
