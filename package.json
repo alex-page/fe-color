@@ -1,9 +1,8 @@
 {
 	"name": "fe-color",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Change a color based on a transformation matrix",
 	"scripts": {
-		"prepublishOnly": "npm run test",
 		"test": "ava && eslint index.js"
 	},
 	"repository": {
