@@ -46,6 +46,7 @@ Fundamentals from [feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/S
 
 ## Release History
 
+* v1.0.5 - `xo` is a dev dependency
 * v1.0.4 - Replace `eslint` with `xo`
 * v1.0.3 - Use files instead of `.npmignore`
 * v1.0.2 - Remove `prepublishOnly` script

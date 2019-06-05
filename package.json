@@ -1,6 +1,6 @@
 {
 	"name": "fe-color",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Change a color based on a transformation matrix",
 	"scripts": {
 		"test": "ava && xo"
@@ -36,10 +36,10 @@
 		"url": "https://github.com/alex-page/fe-color/issues"
 	},
 	"devDependencies": {
-		"ava": "^2.0.0"
+		"ava": "^2.0.0",
+		"xo": "^0.24.0"
 	},
 	"dependencies": {
-		"color": "^2.0.1",
-		"xo": "^0.24.0"
+		"color": "^2.0.1"
 	}
 }
