@@ -13,9 +13,9 @@ $ npm install fe-color
 ## Usage
 
 ```js
-const FEColor = require( 'fe-color' );
+const feColor = require( 'fe-color' );
 
-FEColor( 
+feColor( 
   'red', 
   [ 
     0.567, 0.433, 0, 0, 0,
@@ -29,10 +29,10 @@ FEColor(
 
 ## Parameters
 
-The function `FEColor` function takes two parameters:
+The function `feColor` function takes two parameters:
 
 ```js
-FEColor( $color, $matrix );
+feColor( $color, $matrix );
 ```
 
 1. `color`  - The color to be manipulated by the filter
@@ -46,6 +46,7 @@ Fundamentals from [feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/S
 
 ## Release History
 
+* v1.0.4 - Replace `eslint` with `xo`
 * v1.0.3 - Use files instead of `.npmignore`
 * v1.0.2 - Remove `prepublishOnly` script
 * v1.0.1 - Replace travis with GitHub actions
