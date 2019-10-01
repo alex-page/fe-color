@@ -46,6 +46,7 @@ Fundamentals from [feColorMatrix](https://developer.mozilla.org/en-US/docs/Web/S
 
 ## Release History
 
+* v1.0.7 - Update dependencies and GitHub actions to yml
 * v1.0.6 - Update dependencies
 * v1.0.5 - `xo` is a dev dependency
 * v1.0.4 - Replace `eslint` with `xo`
