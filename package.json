@@ -37,7 +37,7 @@
 	},
 	"devDependencies": {
 		"ava": "^2.0.0",
-		"xo": "^0.24.0"
+		"xo": "^0.53.1"
 	},
 	"dependencies": {
 		"color": "^2.0.1"
