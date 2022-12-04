@@ -36,8 +36,8 @@
 		"url": "https://github.com/alex-page/fe-color/issues"
 	},
 	"devDependencies": {
-		"ava": "^2.0.0",
-		"xo": "^0.24.0"
+		"ava": "^5.1.0",
+		"xo": "^0.53.1"
 	},
 	"dependencies": {
 		"color": "^2.0.1"
